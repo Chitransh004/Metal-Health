@@ -72,32 +72,6 @@ seaborn - Statistical visualizations
 Environment: Jupyter Notebook
 Version Control: Git
 
-📁 Project Structure
-mental-health-tech-analysis/
-├── data/
-│   ├── raw/
-│   │   └── mental_health_survey.csv
-│   └── cleaned/
-│       └── mental_health_clean.csv
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_analysis_visualization.ipynb
-│   └── 04_final_report.ipynb
-├── src/
-│   ├── data_cleaning.py
-│   ├── visualization.py
-│   └── analysis.py
-├── reports/
-│   ├── case_study.pdf
-│   └── presentation.pdf
-├── images/
-│   ├── demographics_chart.png
-│   ├── workplace_resources_distribution.png
-│   └── correlation_analysis.png
-├── requirements.txt
-├── README.md
-└── .gitignore
 🔍 Key Findings
 1. Workplace Policy Impact
 
